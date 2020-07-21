@@ -1,0 +1,6 @@
+setup.py
+./pipeg/__init__.py
+pipeg.egg-info/PKG-INFO
+pipeg.egg-info/SOURCES.txt
+pipeg.egg-info/dependency_links.txt
+pipeg.egg-info/top_level.txt
